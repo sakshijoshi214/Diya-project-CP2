@@ -1,1 +1,2 @@
-# Diya-project-CP2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
